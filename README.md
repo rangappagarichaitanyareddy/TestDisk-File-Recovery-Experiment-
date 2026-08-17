@@ -237,37 +237,14 @@ The damaged NTFS boot sector was also repaired using the valid backup boot secto
 ---
 
 # Evidence / Screenshots
+https://github.com/YOUR_USERNAME/TestDisk-File-Recovery-Experiment/blob/main/assets/screenshots/testdisk-01.png
 
-### Screenshot 1 – TestDisk Disk Selection
+https://github.com/YOUR_USERNAME/TestDisk-File-Recovery-Experiment/blob/main/assets/screenshots/testdisk-02.png
 
-![TestDisk Disk Selection](https://github.com/user-attachments/assets/6f5c360f-3e5f-47d9-8920-49ea7f2827ae)
+https://github.com/YOUR_USERNAME/TestDisk-File-Recovery-Experiment/blob/main/assets/screenshots/testdisk-03.png
 
----
+https://github.com/YOUR_USERNAME/TestDisk-File-Recovery-Experiment/blob/main/assets/screenshots/testdisk-04.png
 
-### Screenshot 2 – Proceed / Disk Selection
+https://github.com/YOUR_USERNAME/TestDisk-File-Recovery-Experiment/blob/main/assets/screenshots/testdisk-05.png
 
-![TestDisk Proceed](https://github.com/user-attachments/assets/ba10881c-a93e-4711-8073-0b815c418921)
-
----
-
-### Screenshot 3 – Partition Table Selection
-
-![Partition Table Selection](https://github.com/user-attachments/assets/8b0e212a-ea9b-4303-8659-8fe68842251a)
-
----
-
-### Screenshot 4 – Partition Analysis
-
-![Partition Analysis](https://github.com/user-attachments/assets/559533d1-73ea-42ad-9816-369d70d930e8)
-
----
-
-### Screenshot 5 – TestDisk Recovery Screen
-
-![TestDisk Recovery](https://github.com/user-attachments/assets/971db9dd-7e2a-4f27-a6ad-0c4eeef3769c)
-
----
-
-### Screenshot 6 – Partition Structure / Recovery Result
-
-![Recovery Result](https://github.com/user-attachments/assets/13b5de53-1077-4d28-8117-d9f90c770bde)
+https://github.com/YOUR_USERNAME/TestDisk-File-Recovery-Experiment/blob/main/assets/screenshots/testdisk-06.png
